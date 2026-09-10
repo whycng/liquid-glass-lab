@@ -1,0 +1,10 @@
+.gradle/
+.android/
+.kotlin/
+.idea/
+local.properties
+**/build/
+upstream-AndroidLiquidGlass/
+*.iml
+*.jks
+*.keystore
